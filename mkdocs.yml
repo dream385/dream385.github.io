@@ -195,5 +195,5 @@ extra:
   social: # 页脚链接
     - icon: fontawesome/brands/telegram
       link: https://gitlab.com/Nessk/vpn
-    - icon: https://gitlab.com/Nessk/Ness/-/raw/main/zsm.jpg
+    - icon: material/file-document
       link: https://neisk.us.kg
